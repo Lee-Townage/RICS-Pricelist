@@ -315,7 +315,7 @@
     "Description": "{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.",
     "Stats": [],
     "Conflicts": [],
-    "CanAdd": true,
+    "CanAdd": false,
     "CanRemove": true,
     "AddPrice": 4500,
     "RemovePrice": 37,

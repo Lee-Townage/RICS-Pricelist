@@ -1692,7 +1692,7 @@
       "Mod": "Core",
       "BasePrice": 30,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FloodLight": {
@@ -3351,7 +3351,7 @@
       "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -3694,7 +3694,7 @@
       "DefName": "EggChickenUnfertilized",
       "CustomName": "Chicken egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -3709,7 +3709,7 @@
       "DefName": "EggChickenFertilized",
       "CustomName": "Chicken egg (fert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 25,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -3739,7 +3739,7 @@
       "DefName": "EggCobraUnfertilized",
       "CustomName": "Cobra egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -3769,7 +3769,7 @@
       "DefName": "EggIguanaUnfertilized",
       "CustomName": "Iguana egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -3859,7 +3859,7 @@
       "DefName": "EggEmuUnfertilized",
       "CustomName": "Emu egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -3934,7 +3934,7 @@
       "DefName": "EggDuckUnfertilized",
       "CustomName": "Duck egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -3964,7 +3964,7 @@
       "DefName": "EggGooseUnfertilized",
       "CustomName": "Goose egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -4159,7 +4159,7 @@
       "DefName": "RawAgave",
       "CustomName": "Agave fruit",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 75,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -5605,7 +5605,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 1000,
+      "BasePrice": 3000,
       "Category": "Animals",
       "Enabled": true,
       "modactive": true
@@ -5997,7 +5997,7 @@
       "Mod": "Core",
       "BasePrice": 2000,
       "Category": "Animals",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Megaspider": {
@@ -7197,7 +7197,7 @@
       "Mod": "Core",
       "BasePrice": 1000,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Gun_DoomsdayRocket": {
@@ -7212,7 +7212,7 @@
       "Mod": "Core",
       "BasePrice": 1000,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Weapon_GrenadeFrag": {
@@ -7452,7 +7452,7 @@
       "Mod": "Core",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "PsychicSensitizer": {
@@ -9147,7 +9147,7 @@
       "Mod": "Ideology",
       "BasePrice": 126,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "LightBall": {
@@ -9642,7 +9642,7 @@
       "Mod": "Ideology",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AnimalistSlab_Broad": {
@@ -9657,7 +9657,7 @@
       "Mod": "Ideology",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "RelicInertCup": {
@@ -9775,7 +9775,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 500,
+      "BasePrice": 50,
       "Category": "Inert relics",
       "Enabled": true,
       "modactive": true
@@ -11082,7 +11082,7 @@
       "Mod": "Biotech",
       "BasePrice": 3500,
       "Category": "Animals",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Mech_Tunneler": {
@@ -11337,7 +11337,7 @@
       "Mod": "Biotech",
       "BasePrice": 380,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Weapon_GrenadeTox": {
@@ -11472,7 +11472,7 @@
       "Mod": "Biotech",
       "BasePrice": 1400,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Gun_NeedleLauncher": {
@@ -11592,7 +11592,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "StoneCubeSculpture": {
@@ -11607,7 +11607,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SandCubeSculpture": {
@@ -13849,7 +13849,7 @@
       "DefName": "EggHeronUnfertilized",
       "CustomName": "Heron egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -13902,7 +13902,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "EggSparrowUnfertilized": {
@@ -13939,7 +13939,7 @@
       "DefName": "EggCrowUnfertilized",
       "CustomName": "Crow egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -13999,7 +13999,7 @@
       "DefName": "EggQuailUnfertilized",
       "CustomName": "Quail egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -14149,7 +14149,7 @@
       "DefName": "EggSeaTurtleUnfertilized",
       "CustomName": "Sea turtle egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 10,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -14164,7 +14164,7 @@
       "DefName": "EggAlligatorFertilized",
       "CustomName": "Alligator egg (fert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -14179,7 +14179,7 @@
       "DefName": "EggAlligatorUnfertilized",
       "CustomName": "Alligator egg (unfert.)",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 25,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -14712,7 +14712,7 @@
       "Mod": "Odyssey",
       "BasePrice": 8020,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_ChargeRifle_Unique": {
@@ -15522,7 +15522,7 @@
       "Mod": "Odyssey",
       "BasePrice": 20000,
       "Category": "Animals",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Locust": {
@@ -16482,7 +16482,7 @@
       "Mod": "Utility Columns",
       "BasePrice": 12000,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ComponentArchoDrone": {
@@ -16497,7 +16497,7 @@
       "Mod": "Utility Columns",
       "BasePrice": 2000,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FireworkLauncher": {
@@ -18186,7 +18186,7 @@
       "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Polarisbloc - Core LAB tmp port",
@@ -18244,13 +18244,13 @@
       "DefName": "PolarisDevilCookie",
       "CustomName": "Devil cookie",
       "HasQuantityLimit": true,
-      "QuantityLimit": 6,
+      "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Polarisbloc - Core LAB tmp port",
-      "BasePrice": 665,
+      "BasePrice": 666,
       "Category": "Foods",
       "Enabled": true,
       "modactive": true
@@ -18276,7 +18276,7 @@
       "HasQuantityLimit": true,
       "QuantityLimit": 4,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Polarisbloc - Core LAB tmp port",
@@ -18291,7 +18291,7 @@
       "HasQuantityLimit": true,
       "QuantityLimit": 6,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Polarisbloc - Core LAB tmp port",
@@ -19836,7 +19836,7 @@
       "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": true,
       "Mod": "Simple Slavery Collars",
@@ -20622,7 +20622,7 @@
       "Mod": "[sbz] Neat Storage",
       "BasePrice": 87,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "sbz_OpenShelf": {
@@ -22114,7 +22114,7 @@
       "DefName": "CnT_OrganicTea",
       "CustomName": "\"organic\" tea",
       "HasQuantityLimit": true,
-      "QuantityLimit": 750,
+      "QuantityLimit": 25,
       "LimitMode": "OneStack",
       "IsUsable": true,
       "IsEquippable": false,
@@ -22212,7 +22212,7 @@
       "Mod": "GravTech",
       "BasePrice": 4000,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AsteroidCollector": {
@@ -22887,7 +22887,7 @@
       "Mod": "Signs and Comments",
       "BasePrice": 141,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SignPlaque": {
@@ -22902,7 +22902,7 @@
       "Mod": "Signs and Comments",
       "BasePrice": 275,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SignWallBasic": {
@@ -23157,7 +23157,7 @@
       "Mod": "Signs and Comments",
       "BasePrice": 157,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BS_BionicStriderLeg": {
@@ -25300,7 +25300,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25315,7 +25315,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25330,7 +25330,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25345,7 +25345,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25360,7 +25360,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25375,7 +25375,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25390,7 +25390,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25405,7 +25405,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25420,7 +25420,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25435,7 +25435,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25450,7 +25450,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25465,7 +25465,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 350,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -25497,7 +25497,7 @@
       "Mod": "Hospitality",
       "BasePrice": 93,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "DoubleBedGuest": {
@@ -25512,7 +25512,7 @@
       "Mod": "Hospitality",
       "BasePrice": 175,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "RoyalBedGuest": {
@@ -25527,7 +25527,7 @@
       "Mod": "Hospitality",
       "BasePrice": 880,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "HospitalBedGuest": {
@@ -25542,7 +25542,7 @@
       "Mod": "Hospitality",
       "BasePrice": 400,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BedrollGuest": {
@@ -25557,7 +25557,7 @@
       "Mod": "Hospitality",
       "BasePrice": 82,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BedrollDoubleGuest": {
@@ -25572,7 +25572,7 @@
       "Mod": "Hospitality",
       "BasePrice": 174,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SlabBedGuest": {
@@ -25587,7 +25587,7 @@
       "Mod": "Hospitality",
       "BasePrice": 61,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SlabDoubleBedGuest": {
@@ -25602,7 +25602,7 @@
       "Mod": "Hospitality",
       "BasePrice": 173,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "DeathrestCasketGuest": {
@@ -25617,7 +25617,7 @@
       "Mod": "Hospitality",
       "BasePrice": 295,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "CribGuest": {
@@ -25632,7 +25632,7 @@
       "Mod": "Hospitality",
       "BasePrice": 51,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AncientSingleBedGuest": {
@@ -25677,7 +25677,7 @@
       "Mod": "Hospitality",
       "BasePrice": 175,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BB_BunkBedTripleGuest": {
@@ -25692,7 +25692,7 @@
       "Mod": "Hospitality",
       "BasePrice": 245,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BB_Spacer_BunkBedDoubleGuest": {
@@ -25707,7 +25707,7 @@
       "Mod": "Hospitality",
       "BasePrice": 1480,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BB_Spacer_BunkBedTripleGuest": {
@@ -25722,7 +25722,7 @@
       "Mod": "Hospitality",
       "BasePrice": 2150,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AdvShip_TimeFasterPodGuest": {
@@ -25737,7 +25737,7 @@
       "Mod": "Hospitality",
       "BasePrice": 4000,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Zombrella": {
@@ -25752,7 +25752,7 @@
       "Mod": "Character Editor",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Zombgrella": {
@@ -25767,7 +25767,7 @@
       "Mod": "Character Editor",
       "BasePrice": 385,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     }
   }
